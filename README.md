@@ -35,9 +35,3 @@ Yes. For **Day 2 (Git + GitHub setup)** you must remember these core commands �
 | `git config --global user.email "you@example.com"` | Set commit email.       |
 | `git config --list`                                | View current config.    |
 
----
-
-Memorize these; they’ll be reused daily.
-You don’t need to memorize every flag, only what you actually used (`init`, `add`, `commit`, `push`, `status`, `log`, `remote`).
-
-Once you can recall these without notes, you’re ready for professional Git use.
